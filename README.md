@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/alivirgo/mcp-memory-service.svg)](https://hits.sh/github.com/alivirgo/mcp-memory-service/)
+
 # mcp-memory-service
 
 ## Persistent Shared Memory for AI Agent Pipelines
